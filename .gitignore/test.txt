@@ -1,0 +1,5 @@
+delletion
+inserion
+sebstitution
+tranpsosition
+splitcheck
