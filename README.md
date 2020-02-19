@@ -16,4 +16,4 @@ This program takes in either a text file or reads from standard input. It checks
 To Run:
   - download and compile SpellChecker.java and SpellDictionary.java
   - run SpellChecker.java, pass in either a text file or word in standard input
-  - test.txt is a good first file for testing the program 
+  - test.txt is great for testing the program!
